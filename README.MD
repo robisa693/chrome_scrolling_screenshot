@@ -1,5 +1,5 @@
 # Full Page Screenshot Tool
-!Generative AI was used in this project! 
+⚠️Generative AI was used in this project⚠️ 
 
 This is a small Python script that opens a web page, scrolls it from top to bottom, takes screenshots along the way, and stitches them into one long image.
 
